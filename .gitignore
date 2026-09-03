@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+.DS_Store
+
+# Generated prediction outputs
+*_predictions.csv
